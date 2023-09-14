@@ -21,8 +21,7 @@ MySQL is a widely used relational database management system that provides power
 
 The repository contains the following:
 
-- **MySQL Code Examples:** A collection of MySQL code snippets and scripts that demonstrate various database operations.
-- I have added the following tutorials:
+- A collection of MySQL code snippets and scripts that demonstrate various database operations:
    - **Deleting duplicate rows:** [Deleting duplicate rows.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.sql). The step-by-step explanation of which can be found at [Deleting duplicate rows.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.pdf)
    - **Display the Alternate Row from Table:** [Display the Alternate Row from Table.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.sql). The step-by-step explanation of which can be found at [Display the Alternate Row from Table.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.pdf)
 
