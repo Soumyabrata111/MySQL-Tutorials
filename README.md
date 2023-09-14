@@ -10,7 +10,6 @@ This repository contains MySQL code examples for performing various database ope
 - [Introduction](#introduction)
 - [Repository Contents](#repository-contents)
 - [Getting Started](#getting-started)
-- [List of tutorials](#list-of-tutorials)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,6 +22,10 @@ MySQL is a widely used relational database management system that provides power
 The repository contains the following:
 
 - **MySQL Code Examples:** A collection of MySQL code snippets and scripts that demonstrate various database operations.
+- I have added the following tutorials:
+   - **Deleting duplicate rows:** [Deleting duplicate rows.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.sql). The step-by-step explanation of which can be found at [Deleting duplicate rows.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.pdf)
+   - **Display the Alternate Row from Table:** [Display the Alternate Row from Table.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.sql). The step-by-step explanation of which can be found at [Display the Alternate Row from Table.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.pdf)
+
 
 ## Getting Started
 
@@ -32,11 +35,6 @@ To get started with the MySQL code examples:
 
 2. Feel free to modify and experiment with the code examples to deepen your understanding of MySQL database operations. Explore the MySQL code examples. Each code snippet is well-documented and covers a specific topic.
    
-## List of tutorials
-I have added the following tutorials:
-   - **Deleting duplicate rows:** [Deleting duplicate rows.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.sql). The step-by-step explanation of which can be found at [Deleting duplicate rows.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.pdf)
-   - **Display the Alternate Row from Table:** [Display the Alternate Row from Table.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.sql). The step-by-step explanation of which can be found at [Display the Alternate Row from Table.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.pdf)
-
 ## Contributing
 
 If you have improvements, additional examples, or corrections to the code, please consider contributing to this repository. Feel free to open an issue or submit a pull request.
