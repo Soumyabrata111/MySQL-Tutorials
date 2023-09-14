@@ -32,7 +32,7 @@ To get started with the MySQL code examples:
 2. Feel free to modify and experiment with the code examples to deepen your understanding of MySQL database operations. Explore the MySQL code examples. Each code snippet is well-documented and covers a specific topic.
    
 3. I have added the following tutorials:
-   - **Deleting duplicate rows:** [Deleting duplicate rows.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.sql)
+   - **Deleting duplicate rows:** [Deleting duplicate rows.sql](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.sql). The step-by-step explanation of which can be found at [Deleting duplicate rows.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.pdf)
 
 ## Contributing
 
