@@ -23,7 +23,7 @@ The repository contains the following:
 
 - [Deleting duplicate rows](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.sql). The step-by-step explanation of which can be found at [Deleting duplicate rows.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Deleting%20duplicate%20rows.pdf)
 - [Display the Alternate Row from Table](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.sql). The step-by-step explanation of which can be found at [Display the Alternate Row from Table.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%20Alternate%20Row%20from%20Table.pdf)
-
+- [Display the 3rd, 4th, 9th Rows from Table](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%203rd%2C%204th%2C%209th%20Rows%20from%20Table.sql). The step-by-step explanation of which can be found at [Display the 3rd, 4th, 9th Rows from Table.pdf](https://github.com/Soumyabrata111/MySQL-Tutorials/blob/main/Display%20the%203rd%2C%204th%2C%209th%20Rows%20from%20Table.pdf)
 
 ## Getting Started
 
